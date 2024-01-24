@@ -3,3 +3,9 @@ After that i made a directory and use "git init" command for intialize this dire
 
 Now i can do write my code in working dir. by using a file. In that file i can write my code.
 
+yeah i wrote some notes in singapore region but the notes will not push on github but i will try to manage that.
+
+Now we will discuss about how to push your code to github or central repository.
+command :- git remote add origin <central repo link>
+and after that :- git push origin master.
+
