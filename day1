@@ -9,3 +9,4 @@ Now we will discuss about how to push your code to github or central repository.
 command :- git remote add origin <central repo link>
 and after that :- git push origin master.
 
+Hey today we are back with some other notes.
